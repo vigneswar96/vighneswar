@@ -3,9 +3,9 @@
 <h3 align="center">I am an enthusiastic AIML engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **Audio Preprocessing**
+- 🔭 I’m currently working on **Patent NLP Processing**
 
-- 🌱 I’m currently learning **TinyML**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/vigneswar-s](https://eportfolio.mygreatlearning.com/vigneswar-s)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vigneswar.drexel@gmail.com**
 
-- ⚡ Fun fact **A snail can sleep for 3 years.**
+- ⚡ Fun fact **You have reached my Github.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
