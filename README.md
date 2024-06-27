@@ -34,3 +34,7 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneswar96&" alt="vigneswar96" /></p>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDB58&center=true&width=435&lines=I+am+an+enthusiastic+AIML+engineer;Passionate+about+AI+and+Machine+Learning;Always+learning%2C+always+growing" alt="Typing SVG" /></a>
+</h3>
