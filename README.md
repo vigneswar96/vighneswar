@@ -27,4 +27,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneswar96&show_icons=true&locale=en" alt="vigneswar96" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneswar96&label=Profile%20views&color=0e75b6&style=flat" alt="vigneswar96" /> </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="300" alt="AI Robot Animation">
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneswar96&" alt="vigneswar96" /></p>
